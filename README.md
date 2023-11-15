@@ -4,8 +4,10 @@ Description: This project will contain the code for a hangman game. The program 
 
 Installation Instruction: 
 
-Usage Instructions: 
-
+- Download either VS code or Python 3 and install the necessary packages. 
+- For VS code install jupyter notebook and python environment. Without this you will not be able to run your code.
+- For Python,  the random library is pre-installed
+  
 Licence Information:
 
 The MIT License (MIT)
